@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Quality assurance na Audax<br>📚 Estudante de Testes Ágeis no C.E.S.A.R School<br>:smiley: Sou apaixonado por resolver problemas com programação<br>:stuck_out_tongue_closed_eyes: Criando bugs desde 2018<br>👩‍💻 Atualmente estou aprendendo robotframework<br>🎯 Me especializar cada vez mais na área de quality assurance</p>
+<p align="left">💻 Quality assurance na Audax<br>📚 Pos-graduado em Testes Ágeis no C.E.S.A.R School<br>:smiley: Sou apaixonado por resolver problemas com programação<br>:stuck_out_tongue_closed_eyes: Criando bugs desde 2018<br>👩‍💻 Atualmente estou aprendendo Cypress<br>🎯 Me especializar cada vez mais na área de quality assurance</p>
 
 ###
 
