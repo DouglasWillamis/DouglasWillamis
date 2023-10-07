@@ -1,68 +1,75 @@
-<h1 align="left">Olá, pessoal 👋!</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h2 align="left">Meu nome é Douglas Willamis</h2>
+<p align="left">My name is Douglas Willamis and I'm a Quality Assurance, from Brazil</p>
 
 ###
 
-<h3 align="left">Um pouco sobre mim</h3>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">💻 Quality assurance na Audax<br>📚 Pos-graduado em Testes Ágeis no C.E.S.A.R School<br>:smiley: Sou apaixonado por resolver problemas com programação<br>:stuck_out_tongue_closed_eyes: Criando bugs desde 2018<br>👩‍💻 Atualmente estou aprendendo Cypress<br>🎯 Me especializar cada vez mais na área de quality assurance</p>
+<p align="left">🔭 I’m currently working at <a href="https://www.passeidireto.com/" target="_blank">Passei direto</a> as Quality Assurance.<br>✨ Creating bugs since 2018.<br>📚 I'm currently learning vue.<br>🎯 Goals: To further specialize in the field of Quality Assurance.<br>🎓 I have a specialization in agile testing from <a href="https://www.cesar.school/" target="_blank">Cesar School</a><br>🎓 I have a Bachelor’s Degree in information systems.<br>💬 Ask me about software testing and software automation.<br>😄 Pronouns: He/Him.<br>👾 Hobbies: Switch, cooking, biking, reading.</p>
 
 ###
 
-<h3 align="left">minhas habilidades</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&username=DouglasWillamis" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=DouglasWillamis" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img src="https://github.com/DouglasWillamis/DouglasWillamis/blob/main/douglas-octocat.png" 
-align="right" height="150" />
+<h2 align="left">I code with</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
-  <img src="https://github.com/DouglasWillamis/DouglasWillamis/blob/main/selenium.svg" 
-  height="30" width="42" alt="selenium logo" />
-  <img src="https://github.com/DouglasWillamis/DouglasWillamis/blob/main/robotframework.svg" 
-  height="30" width="42" alt="robot logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/douglaswillamis/douglaswillamis/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">📫 Get in touch:</h2>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/douglas-willamis"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://t.me/Doug_Will"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /></a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://github.com/DouglasWillamis/DouglasWillamis/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=22qsg7reovipstx43zfp7svca&count=5" alt="Spotify recently played" />
+  <a href="https://linkedin.com/in/douglas-willamis" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/Doug_Will" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="douglaswillamis@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
