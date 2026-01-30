@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working at <a href="https://www.passeidireto.com/" target="_blank">Passei direto</a> as Quality Assurance.<br>✨ Creating bugs since 2018.<br>📚 I'm currently learning vue.<br>🎯 Goals: To further specialize in the field of Quality Assurance.<br>🎓 I have a specialization in agile testing from <a href="https://www.cesar.school/" target="_blank">Cesar School</a><br>🎓 I have a Bachelor’s Degree in information systems.<br>💬 Ask me about software testing and software automation.<br>😄 Pronouns: He/Him.<br>👾 Hobbies: Switch, cooking, biking, reading.</p>
+<p align="left">🔭 I’m currently working at <a href="https://fcxlabs.ferreiracosta.com/" target="_blank">FcxLabs</a> as Quality Assurance.<br>✨ Creating bugs since 2018.<br>📚 I'm currently learning C#.<br>🎯 Goals: To further specialize in the field of Quality Assurance.<br>🎓 I have a specialization in agile testing from <a href="https://www.cesar.school/" target="_blank">Cesar School</a><br>🎓 I have a Bachelor’s Degree in information systems.<br>💬 Ask me about software testing and software automation.<br>😄 Pronouns: He/Him.<br>👾 Hobbies: Switch, cooking, biking, reading.</p>
 
 ###
 
